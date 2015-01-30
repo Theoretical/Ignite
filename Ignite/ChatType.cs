@@ -1,0 +1,6 @@
+﻿namespace Ignite
+{
+    enum ChatType
+    {
+    }
+}

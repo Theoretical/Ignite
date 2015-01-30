@@ -1,0 +1,1 @@
+Ignite is a League of Legends client emulator (aka pakcet bot) for patch <= 4.20
